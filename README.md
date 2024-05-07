@@ -21,4 +21,16 @@ And seriously, the compiler is fun! The documentation isn't a mess and there are
 
 But why this repository then? When learning Rust I thought that some of the examples lacks of comments in the code that helps you learning it faster by reading directly the code, not needing to follow a guide or a book. If you are fluent in other programming language, like Javascript, Java or C++, it is faster to see directly the code and his results and you can figure it out yourself without a large explanation.
 
+## Instalation:
+
+For rust, you only need to install rustup. Go to https://rustup.rs/ and follow the instructions. It includes all you need to begin your road to learn to program in Rust.
+
+For check and edit all the code, I recommend Visual Studio Code that it's free and you can find version for all the usual OS. https://code.visualstudio.com/
+
+To download this repo and begin to check all the code and run all the code, just clone this repo:
+
+git clone https://github.com/Ezgaona/rust-learning-examples.git
+
+and then, enter in each folder and run it with "cargo run". Open the folder in Visual Studio Code to read or modify the code.
+
 ## Examples:
